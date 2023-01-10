@@ -3,4 +3,4 @@ A simple script to import clean meshed into revit
 
 Instructions in the script.
 
-Your PC may block the netDxf dll preventing the script to succesfuly run. To Unblock:
+Your PC may block the netDxf dll preventing the script to successfully  run. To Unblock:
